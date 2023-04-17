@@ -1,11 +1,5 @@
-# WebDevProjects
-This is where I'll be storing my Web Dev Projects
+To-Do List app
 
 
-Includes: 
-CSS Credit Card Page inspired by a youtube video
-
-Simple To-Do App
-
-Weather App
-
+Link to Webpage:
+https://luisp-coder.github.io/To-Do/
